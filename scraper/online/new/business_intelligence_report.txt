@@ -1,0 +1,73 @@
+================================================================================
+BUSINESS INTELLIGENCE REPORT - quotes.toscrape.com
+================================================================================
+
+🏢 COMPANY: Quotes to Scrape
+
+📊 STATISTICS:
+  • Pages Scraped: 20
+  • Pricing Tiers: 6
+  • Unique Features: 0
+
+================================================================================
+
+================================================================================
+SOCIAL MEDIA BUSINESS INTELLIGENCE REPORT
+Business: Quotes
+Report Generated: 2025-12-25 19:55:03
+================================================================================
+
+📱 TWITTER ANALYSIS
+--------------------------------------------------------------------------------
+Handle: @quotes
+Followers: 0
+Total Posts Analyzed: 10
+Posting Frequency: 0.33 posts/day
+Average Engagement Rate: 0.00%
+Average Views per Post: 1,450
+Average Comments per Post: 19.0
+Total Engagement (last 10 posts): 1,235
+Best Performing Post: 0.00% engagement (1,000 views)
+Lowest Performing Post: 0.00% engagement (1,000 views)
+
+📸 INSTAGRAM ANALYSIS
+--------------------------------------------------------------------------------
+Handle: @quotes
+Followers: 0
+Total Posts Analyzed: 10
+Posting Frequency: 0.33 posts/day
+Average Engagement Rate: 0.00%
+Average Views per Post: 5,900
+Average Likes per Post: 500
+Average Comments per Post: 72.5
+Total Engagement (last 10 posts): 7,975
+Best Performing Post: 0.00% engagement (5,000 views)
+Lowest Performing Post: 0.00% engagement (5,000 views)
+
+💼 LINKEDIN ANALYSIS
+--------------------------------------------------------------------------------
+Company: Quotes
+Followers: 0
+Total Posts Analyzed: 10
+Posting Frequency: 0.33 posts/day
+Average Engagement Rate: 0.00%
+Average Views per Post: 3,900
+Average Comments per Post: 111.0
+Total Engagement (last 10 posts): 6,910
+Best Performing Post: 0.00% engagement (3,000 views)
+Lowest Performing Post: 0.00% engagement (3,000 views)
+
+📊 EXECUTIVE SUMMARY & RECOMMENDATIONS
+--------------------------------------------------------------------------------
+Total Followers Across Platforms: 0
+Total Engagement Across Platforms: 16,120
+Platforms Active: 3
+
+Key Insights:
+• Focus on high-performing content types
+• Maintain consistent posting schedule
+• Engage with audience comments and messages
+• Analyze competitor strategies on each platform
+• Use platform-specific features (Stories, Reels, etc.)
+
+================================================================================

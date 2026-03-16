@@ -1,0 +1,1186 @@
+{
+  "business_name": "Doodle",
+  "website_url": "https://doodle.com/en/",
+  "website_data": {
+    "domain": "doodle.com",
+    "url": "https://doodle.com/en/",
+    "timestamp": 1773686658.3298602,
+    "pages": {
+      "homepage": {
+        "url": "https://doodle.com",
+        "title": "Free online meeting scheduling tool | Doodle",
+        "meta_description": "Doodle is the fastest and easiest way to schedule anything \u2014 from meetings to the next great collaboration.",
+        "headings": {
+          "h1": [
+            "Simple scheduling built for"
+          ],
+          "h2": [
+            "It\u2019s more than finding a time.",
+            "Book complex meetings 10\u00d7 faster with Doodle",
+            "Work with your favorite tools",
+            "350M+ meetings scheduled smarter",
+            "Enterprise-grade security for teams of any size",
+            "We Care About Your Privacy"
+          ],
+          "h3": [
+            "Trusted by 133 million people at top orgs for over 18 years.",
+            "Break-up with back-and-forth",
+            "Clear your mind and your calendar",
+            "Book a lasting impression",
+            "Booking confirmed. Payment collected.",
+            "We and our partners process data to provide:"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "freemium",
+          "price_evidence": [
+            "nages availability, invites, and reminders, so you can focus on the real work. Try",
+            ", like browsing data or unique identifiers, on your device. Selecting Accept All en",
+            "Free tier mentioned"
+          ],
+          "billing_units": [],
+          "gating_signals": [
+            "Sales-gated pricing"
+          ],
+          "confidence": 0.6
+        },
+        "ctas": [
+          "Sign up"
+        ],
+        "social_links": {
+          "twitter": "https://twitter.com/doodletweet",
+          "linkedin": "https://www.linkedin.com/company/doodle-ag/",
+          "facebook": "https://www.facebook.com/DoodleAG",
+          "instagram": "https://www.instagram.com/doodlescheduling/",
+          "youtube": "https://www.youtube.com/@doodle1310"
+        },
+        "integrations": [
+          "A set of logos including Alphabet, Amazon, Apple, Meta, and Microsoft",
+          "A Doodle-branded page displays the Bloomdle logo. It shows that Cengiz is organizing a \"Plant Caring Workshop\" at 37 Maple Avenue, Springfield, with an option to join via Google Meet.",
+          "Microsoft Teams logo centered on a grid-patterned background.",
+          "Zapier logo centered on a grid-patterned background.",
+          "Webex logo centered on a grid-patterned background.",
+          "iCloud logo centered on a grid-patterned background.",
+          "Zoom logo centered on a grid-patterned background.",
+          "Stripe logo centered on a grid-patterned background.",
+          "Microsoft Exchange logo centered on a grid-patterned background.",
+          "Google Calendar logo centered on a grid-patterned background.",
+          "Microsoft Office 365 logo centered on a grid-patterned background.",
+          "Google Meet logo centered on a grid-patterned background.",
+          "Four logos including cyberverify level 3, GDPR, CCPA, and SOC2 Type II"
+        ],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [
+            "Online booking interface for a 45-minute legal consultation with advisor Natalie via Google Meet. Appointment with customer Chris is scheduled for May 16 at 11:30 AM.",
+            "Four logos including cyberverify level 3, GDPR, CCPA, and SOC2 Type II",
+            "Four security compliance badges: MSPAlliance Cyber Verify Level 3 certification, a European GDPR compliance icon with a lock and EU stars,  a CCPA complicance icon, and AICPA SOC (System and Organization Controls) certification.",
+            "Powered by Onetrust"
+          ],
+          "stats": []
+        }
+      },
+      "en_solutions_appointments": {
+        "url": "https://doodle.com/en/solutions/appointments",
+        "title": "Online Appointment Scheduling for Clients & Customers | Doodle",
+        "meta_description": "Share your availability so clients can book instantly. No back-and-forth emails. Fast, secure online scheduling made simple.",
+        "headings": {
+          "h1": [],
+          "h2": [
+            "Online appointment scheduling made simple",
+            "Flexibility for every type of appointment",
+            "Plans built to save you time and fit your budget",
+            "Made for every appointment you book",
+            "Work with your favorite tools",
+            "350M+ meetings scheduled smarter",
+            "Enterprise-grade security for teams of any size",
+            "Appointment tips and time-saving tricks",
+            "Ready to make bookings easy and get your time back?",
+            "We Care About Your Privacy"
+          ],
+          "h3": [
+            "Trusted by professionals worldwide to book appointments every day",
+            "Frequently Asked Questions",
+            "We and our partners process data to provide:"
+          ]
+        },
+        "features": [
+          "Handle time zones automatically Doodle automatically adjusts availability to the client's local time, so no one shows up an hour early or late.",
+          "Let customers choose the time Share your Booking Page or Group Poll so clients see your available slots and book instantly \u2014 no email back-and-forth.",
+          "Reduce no-shows Send automatic reminders so people never \u201cforget\u201d your meeting, whether booked a week ahead or the night before."
+        ],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "freemium",
+          "price_evidence": [
+            "getting started with simple scheduling $0 for one user Free includes Unlimited Gr",
+            "ofessionals who want smarter scheduling $6.95 per user per month paid annually All",
+            "ncreased productivity and collaboration $8.95 per user per month paid annually All",
+            ", like browsing data or unique identifiers, on your device. Selecting Accept All en",
+            "Free tier mentioned"
+          ],
+          "billing_units": [
+            "per user",
+            "per month"
+          ],
+          "gating_signals": [
+            "Sales-gated pricing"
+          ],
+          "confidence": 0.6
+        },
+        "ctas": [
+          "Sign up"
+        ],
+        "social_links": {
+          "twitter": "https://twitter.com/doodletweet",
+          "linkedin": "https://www.linkedin.com/company/doodle-ag/",
+          "facebook": "https://www.facebook.com/DoodleAG",
+          "instagram": "https://www.instagram.com/doodlescheduling/",
+          "youtube": "https://www.youtube.com/@doodle1310"
+        },
+        "integrations": [
+          "Five logos of the companies Tutor.com, Stripe, American Red Cross, KPMG Advisory, Teladoc Health",
+          "iCloud logo centered on a grid-patterned background.",
+          "Zoom logo centered on a grid-patterned background.",
+          "Microsoft Teams logo centered on a grid-patterned background.",
+          "Zapier logo centered on a grid-patterned background.",
+          "Webex logo centered on a grid-patterned background.",
+          "Google Calendar logo centered on a grid-patterned background.",
+          "Microsoft Office 365 logo centered on a grid-patterned background.",
+          "Google Meet logo centered on a grid-patterned background.",
+          "Stripe logo centered on a grid-patterned background.",
+          "Microsoft Exchange logo centered on a grid-patterned background.",
+          "Four logos including cyberverify level 3, GDPR, CCPA, and SOC2 Type II"
+        ],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [
+            "Five logos of the companies Tutor.com, Stripe, American Red Cross, KPMG Advisory, Teladoc Health",
+            "Logos of the five companies Tutor.com, Stripe, American Red Cross, KPMG Advisory, Teladoc Health",
+            "Four logos including cyberverify level 3, GDPR, CCPA, and SOC2 Type II",
+            "Four security compliance badges: MSPAlliance Cyber Verify Level 3 certification, a European GDPR compliance icon with a lock and EU stars,  a CCPA complicance icon, and AICPA SOC (System and Organization Controls) certification.",
+            "Powered by Onetrust"
+          ],
+          "stats": []
+        }
+      },
+      "en_product_overview": {
+        "url": "https://doodle.com/en/product-overview",
+        "title": "Product Features: Elevate scheduling with our advanced tools | Doodle",
+        "meta_description": "Uncover Doodle's powerful product features designed to optimize team scheduling, enhance event coordination and boost productivity.",
+        "headings": {
+          "h1": [
+            "Book any kind of meeting in minutes with Doodle"
+          ],
+          "h2": [
+            "Professional features",
+            "Keep using your favorite tools",
+            "Privacy and security built for enterprise",
+            "Manage meetings better with Doodle",
+            "We Care About Your Privacy"
+          ],
+          "h3": [
+            "Set your availability and share it in a single link",
+            "Make it easy to meet one-on-one",
+            "Find the best time for the whole team",
+            "Create sign-ups for workshops, webinars, or events",
+            "Frequently Asked Questions",
+            "We and our partners process data to provide:"
+          ]
+        },
+        "features": [
+          "Calendar syncing Never double-book a meeting again. Automate your schedule with live updates to every confirmed event.",
+          "No advertisement Find the right time for everyone, ad-free.",
+          "Unlimited Booking Pages Manage multiple clients with as many pages as you like, so time booked with you is always in your control."
+        ],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "freemium",
+          "price_evidence": [
+            "ll Create sign-ups for workshops, webinars, or events Let others sign up without an",
+            ", like browsing data or unique identifiers, on your device. Selecting Accept All en",
+            "Free tier mentioned"
+          ],
+          "billing_units": [],
+          "gating_signals": [
+            "Sales-gated pricing"
+          ],
+          "confidence": 0.6
+        },
+        "ctas": [
+          "Sign up",
+          "Try it free",
+          "Sign Up Now"
+        ],
+        "social_links": {
+          "twitter": "https://twitter.com/doodletweet",
+          "linkedin": "https://www.linkedin.com/company/doodle-ag/",
+          "facebook": "https://www.facebook.com/DoodleAG",
+          "instagram": "https://www.instagram.com/doodlescheduling/",
+          "youtube": "https://www.youtube.com/@doodle1310"
+        },
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [
+            "Powered by Onetrust"
+          ],
+          "stats": []
+        }
+      },
+      "en_product_polls": {
+        "url": "https://doodle.com/en/product/polls",
+        "title": "Create a free group poll | Doodle",
+        "meta_description": "Group polls make juggling complex schedules a thing of the past and bring the team together fast.",
+        "headings": {
+          "h1": [],
+          "h2": [
+            "Create a new Doodle",
+            "The right people at the right time. Every time.",
+            "Start a poll and you\u2019ll book that meeting",
+            "Companies use Doodle for all their scheduling needs.",
+            "The fastest way to book work meetings",
+            "The back-and-forth stops here",
+            "Book your next work meeting in minutes",
+            "We Care About Your Privacy"
+          ],
+          "h3": [
+            "Easy to create. Easy to get responses.",
+            "Get it booked with deadlines and reminders",
+            "Set every meeting up for success",
+            "With Doodle:",
+            "Without Doodle:",
+            "We and our partners process data to provide:"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "freemium",
+          "price_evidence": [
+            ", like browsing data or unique identifiers, on your device. Selecting Accept All en",
+            "Free tier mentioned"
+          ],
+          "billing_units": [],
+          "gating_signals": [
+            "Sales-gated pricing"
+          ],
+          "confidence": 0.6
+        },
+        "ctas": [
+          "Sign up",
+          "Try it free"
+        ],
+        "social_links": {
+          "twitter": "https://twitter.com/doodletweet",
+          "linkedin": "https://www.linkedin.com/company/doodle-ag/",
+          "facebook": "https://www.facebook.com/DoodleAG",
+          "instagram": "https://www.instagram.com/doodlescheduling/",
+          "youtube": "https://www.youtube.com/@doodle1310"
+        },
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [
+            "Powered by Onetrust"
+          ],
+          "stats": []
+        }
+      },
+      "en_integrations_stripe": {
+        "url": "https://doodle.com/en/integrations/stripe",
+        "title": "Doodle + Stripe Payment Integration | Doodle",
+        "meta_description": "Find a time and get paid for it\u2014all in one place.",
+        "headings": {
+          "h1": [],
+          "h2": [
+            "Find a time and get paid for it \u2014all in one place",
+            "Monetizing your time can be this effortless",
+            "Bookings and payments done in minutes",
+            "Start collecting payments with ease in a few clicks",
+            "We Care About Your Privacy"
+          ],
+          "h3": [
+            "Connect your Stripe account and set a price",
+            "Stay in control of your time",
+            "Get booked and get paid",
+            "Turn your time into your money",
+            "We and our partners process data to provide:"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "sales-led",
+          "price_evidence": [
+            ", like browsing data or unique identifiers, on your device. Selecting Accept All en"
+          ],
+          "billing_units": [],
+          "gating_signals": [
+            "Sales-gated pricing"
+          ],
+          "confidence": 0.6
+        },
+        "ctas": [
+          "Sign up",
+          "Get started"
+        ],
+        "social_links": {
+          "twitter": "https://twitter.com/doodletweet",
+          "linkedin": "https://www.linkedin.com/company/doodle-ag/",
+          "facebook": "https://www.facebook.com/DoodleAG",
+          "instagram": "https://www.instagram.com/doodlescheduling/",
+          "youtube": "https://www.youtube.com/@doodle1310"
+        },
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [
+            "Powered by Onetrust"
+          ],
+          "stats": []
+        }
+      },
+      "en_product_1_1": {
+        "url": "https://doodle.com/en/product/1-1",
+        "title": "1:1 meeting scheduler. Schedule appointments, meetings and 1:1s quickly with Doodle. | Doodle",
+        "meta_description": "Make it easy to meet 1:1. Doodle cuts out the back-and-forth when it comes to trying to find a time to meet.",
+        "headings": {
+          "h1": [],
+          "h2": [
+            "Pick your times. Pick a person. Put it in your calendar.",
+            "Make it easy to meet",
+            "How Doodle\u2019s 1:1 meeting feature helped UC Davis team save up to a month of time",
+            "Doodle 1:1s for all your work 1:1s",
+            "Send it once. Get it booked.",
+            "Privacy and security built for enterprise",
+            "There's an easier way to schedule",
+            "We Care About Your Privacy"
+          ],
+          "h3": [
+            "With Doodle:",
+            "Without Doodle:",
+            "We and our partners process data to provide:"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "freemium",
+          "price_evidence": [
+            ", like browsing data or unique identifiers, on your device. Selecting Accept All en",
+            "Free tier mentioned"
+          ],
+          "billing_units": [],
+          "gating_signals": [
+            "Sales-gated pricing"
+          ],
+          "confidence": 0.6
+        },
+        "ctas": [
+          "Sign up",
+          "Try it free"
+        ],
+        "social_links": {
+          "twitter": "https://twitter.com/doodletweet",
+          "linkedin": "https://www.linkedin.com/company/doodle-ag/",
+          "facebook": "https://www.facebook.com/DoodleAG",
+          "instagram": "https://www.instagram.com/doodlescheduling/",
+          "youtube": "https://www.youtube.com/@doodle1310"
+        },
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [
+            "Powered by Onetrust"
+          ],
+          "stats": []
+        }
+      },
+      "en_features_booking_page": {
+        "url": "https://doodle.com/en/features/booking-page",
+        "title": "Booking Page | Automate and boost organization | Doodle",
+        "meta_description": "Boost organization and effortlessly manage your favorite calendars with Booking Page. Perfect for business owners and individuals alike.",
+        "headings": {
+          "h1": [],
+          "h2": [
+            "Turn your calendar into your business",
+            "Finally, more control over your time at work",
+            "Balance both teaching and admin duties with Booking Page",
+            "Get more clients in the door. Without having it wide open.",
+            "Like having an assistant run your calendar",
+            "Start taking bookings today",
+            "We Care About Your Privacy"
+          ],
+          "h3": [
+            "Get paid for your time",
+            "Availability according to your rules",
+            "Get more bookings faster",
+            "Always up-to-date availability",
+            "With Doodle:",
+            "Without Doodle:",
+            "We and our partners process data to provide:"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "freemium",
+          "price_evidence": [
+            "my role. Alfredo B Dean of Student Affairs, University of Redlands Get more clients",
+            ", like browsing data or unique identifiers, on your device. Selecting Accept All en",
+            "Free tier mentioned"
+          ],
+          "billing_units": [],
+          "gating_signals": [
+            "Sales-gated pricing"
+          ],
+          "confidence": 0.6
+        },
+        "ctas": [
+          "Sign up",
+          "Try it free"
+        ],
+        "social_links": {
+          "twitter": "https://twitter.com/doodletweet",
+          "linkedin": "https://www.linkedin.com/company/doodle-ag/",
+          "facebook": "https://www.facebook.com/DoodleAG",
+          "instagram": "https://www.instagram.com/doodlescheduling/",
+          "youtube": "https://www.youtube.com/@doodle1310"
+        },
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [
+            "Powered by Onetrust"
+          ],
+          "stats": []
+        }
+      },
+      "en_integrations": {
+        "url": "https://doodle.com/en/integrations",
+        "title": "Integrations | Doodle",
+        "meta_description": "Doodle works seamlessly with the tools you use every day.",
+        "headings": {
+          "h1": [],
+          "h2": [
+            "The next great duo \u2014 Doodle and your favorite apps",
+            "These tools are fantastic Doodle teammates",
+            "Bring your tools and people together and set the stage for success.",
+            "We Care About Your Privacy"
+          ],
+          "h3": [
+            "Ready for remote",
+            "Feel confident with professional billing",
+            "Automate your scheduling",
+            "We and our partners process data to provide:"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "freemium",
+          "price_evidence": [
+            ", like browsing data or unique identifiers, on your device. Selecting Accept All en",
+            "Free tier mentioned"
+          ],
+          "billing_units": [],
+          "gating_signals": [
+            "Sales-gated pricing"
+          ],
+          "confidence": 0.6
+        },
+        "ctas": [
+          "Sign up",
+          "Try it free"
+        ],
+        "social_links": {
+          "twitter": "https://twitter.com/doodletweet",
+          "linkedin": "https://www.linkedin.com/company/doodle-ag/",
+          "facebook": "https://www.facebook.com/DoodleAG",
+          "instagram": "https://www.instagram.com/doodlescheduling/",
+          "youtube": "https://www.youtube.com/@doodle1310"
+        },
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [
+            "Powered by Onetrust"
+          ],
+          "stats": []
+        }
+      },
+      "en_why_doodle": {
+        "url": "https://doodle.com/en/why-doodle",
+        "title": "Why Choose Doodle: Benefits, Use Cases, and Security | Doodle",
+        "meta_description": "Discover Doodle's advantages: use cases, integrations, and top security. Ensuring GDPR and SOC2 compliance.",
+        "headings": {
+          "h1": [],
+          "h2": [
+            "Don\u2019t let your schedule control you",
+            "Unlock your potential with Doodle",
+            "Free up time and get more done",
+            "Professionals get more done with Doodle",
+            "Find the right time",
+            "Your privacy and security is our priority",
+            "Made to collaborate with your tools, too",
+            "Save time and focus on the important conversations",
+            "We Care About Your Privacy"
+          ],
+          "h3": [
+            "Entrepreneurs",
+            "Freelancer",
+            "Sales",
+            "Recruiting",
+            "We and our partners process data to provide:"
+          ]
+        },
+        "features": [
+          "Time-saving Doodle eliminates the need for lengthy email chains through a centralized platform that chosen people can access.",
+          "Increased productivity Doodle streamlines your scheduling and automates your workflows through endless integrations.",
+          "Improved organization With Doodle's user-friendly interface, you can easily keep track of your schedule and stay organized."
+        ],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "freemium",
+          "price_evidence": [
+            ", like browsing data or unique identifiers, on your device. Selecting Accept All en",
+            "Free tier mentioned"
+          ],
+          "billing_units": [],
+          "gating_signals": [
+            "Sales-gated pricing"
+          ],
+          "confidence": 0.6
+        },
+        "ctas": [
+          "Sign up",
+          "Try it free",
+          "Sign Up Now"
+        ],
+        "social_links": {
+          "twitter": "https://twitter.com/doodletweet",
+          "linkedin": "https://www.linkedin.com/company/doodle-ag/",
+          "facebook": "https://www.facebook.com/DoodleAG",
+          "instagram": "https://www.instagram.com/doodlescheduling/",
+          "youtube": "https://www.youtube.com/@doodle1310"
+        },
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [
+            "Powered by Onetrust"
+          ],
+          "stats": [
+            "99.9% availability SLA"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "company_name": "Free online meeting scheduling tool",
+      "description": "Doodle is the fastest and easiest way to schedule anything \u2014 from meetings to the next great collaboration.",
+      "domain": "doodle.com",
+      "website_url": "https://doodle.com/en/",
+      "pricing_tiers": 6,
+      "features_count": 9,
+      "total_pages_scraped": 9,
+      "ctas": [
+        "Sign up",
+        "Get started",
+        "Sign Up Now",
+        "Try it free"
+      ],
+      "socials": {
+        "twitter": "https://twitter.com/doodletweet",
+        "linkedin": "https://www.linkedin.com/company/doodle-ag/",
+        "facebook": "https://www.facebook.com/DoodleAG",
+        "instagram": "https://www.instagram.com/doodlescheduling/",
+        "youtube": "https://www.youtube.com/@doodle1310"
+      },
+      "integrations": [
+        "Microsoft Teams logo centered on a grid-patterned background.",
+        "Google Meet logo centered on a grid-patterned background.",
+        "Zapier logo centered on a grid-patterned background.",
+        "A set of logos including Alphabet, Amazon, Apple, Meta, and Microsoft",
+        "Microsoft Exchange logo centered on a grid-patterned background.",
+        "A Doodle-branded page displays the Bloomdle logo. It shows that Cengiz is organizing a \"Plant Caring Workshop\" at 37 Maple Avenue, Springfield, with an option to join via Google Meet.",
+        "Stripe logo centered on a grid-patterned background.",
+        "Microsoft Office 365 logo centered on a grid-patterned background.",
+        "Five logos of the companies Tutor.com, Stripe, American Red Cross, KPMG Advisory, Teladoc Health",
+        "Zoom logo centered on a grid-patterned background.",
+        "Four logos including cyberverify level 3, GDPR, CCPA, and SOC2 Type II",
+        "iCloud logo centered on a grid-patterned background.",
+        "Google Calendar logo centered on a grid-patterned background.",
+        "Webex logo centered on a grid-patterned background."
+      ],
+      "trust_signals": {
+        "testimonials": [],
+        "certifications": [
+          "Online booking interface for a 45-minute legal consultation with advisor Natalie via Google Meet. Appointment with customer Chris is scheduled for May 16 at 11:30 AM.",
+          "Four logos including cyberverify level 3, GDPR, CCPA, and SOC2 Type II",
+          "Four security compliance badges: MSPAlliance Cyber Verify Level 3 certification, a European GDPR compliance icon with a lock and EU stars,  a CCPA complicance icon, and AICPA SOC (System and Organization Controls) certification.",
+          "Powered by Onetrust",
+          "Five logos of the companies Tutor.com, Stripe, American Red Cross, KPMG Advisory, Teladoc Health",
+          "Logos of the five companies Tutor.com, Stripe, American Red Cross, KPMG Advisory, Teladoc Health"
+        ],
+        "companies": [],
+        "stats": [
+          "99.9% availability SLA"
+        ]
+      }
+    }
+  },
+  "social_media_data": {
+    "business_name": "Doodle",
+    "scrape_timestamp": 1773686774.861452,
+    "twitter_profile": {
+      "platform": "twitter",
+      "username": "https://twitter.com/doodletweet",
+      "display_name": "https://twitter.com/doodletweet",
+      "bio": "",
+      "followers": 0,
+      "following": 0,
+      "total_posts": 0,
+      "verification_status": false,
+      "profile_url": "https://twitter.com/https://twitter.com/doodletweet",
+      "profile_image": ""
+    },
+    "instagram_profile": {
+      "platform": "instagram",
+      "username": "https://www.instagram.com/doodlescheduling/",
+      "display_name": "https://www.instagram.com/doodlescheduling/",
+      "bio": "",
+      "followers": 0,
+      "following": 0,
+      "total_posts": 0,
+      "verification_status": false,
+      "profile_url": "https://instagram.com/https://www.instagram.com/doodlescheduling//",
+      "profile_image": ""
+    },
+    "reddit_profile": null,
+    "linkedin_profile": {
+      "platform": "linkedin",
+      "username": "https://www.linkedin.com/company/doodle-ag/",
+      "display_name": "https://www.linkedin.com/company/doodle-ag/",
+      "bio": "",
+      "followers": 0,
+      "following": 0,
+      "total_posts": 0,
+      "verification_status": false,
+      "profile_url": "https://linkedin.com/company/https://www.linkedin.com/company/doodle-ag/",
+      "profile_image": ""
+    },
+    "twitter_analytics": {
+      "platform": "twitter",
+      "total_followers": 0,
+      "total_engagement": 1235,
+      "average_engagement_rate": 0.0,
+      "posting_frequency": 0.3333333333333333,
+      "most_engaging_content_type": "",
+      "recent_posts": [
+        {
+          "platform": "twitter",
+          "post_id": "tweet_0",
+          "author": "https://twitter.com/doodletweet",
+          "content": "Tweet #1 from https://twitter.com/doodletweet",
+          "timestamp": "2026-03-17T00:16:17.569625",
+          "views": 1000,
+          "likes": 50,
+          "comments": 10,
+          "shares": 5,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/https://twitter.com/doodletweet/status/0"
+        },
+        {
+          "platform": "twitter",
+          "post_id": "tweet_1",
+          "author": "https://twitter.com/doodletweet",
+          "content": "Tweet #2 from https://twitter.com/doodletweet",
+          "timestamp": "2026-03-17T00:16:17.569676",
+          "views": 1100,
+          "likes": 60,
+          "comments": 12,
+          "shares": 6,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/https://twitter.com/doodletweet/status/1"
+        },
+        {
+          "platform": "twitter",
+          "post_id": "tweet_2",
+          "author": "https://twitter.com/doodletweet",
+          "content": "Tweet #3 from https://twitter.com/doodletweet",
+          "timestamp": "2026-03-17T00:16:17.569697",
+          "views": 1200,
+          "likes": 70,
+          "comments": 14,
+          "shares": 7,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/https://twitter.com/doodletweet/status/2"
+        },
+        {
+          "platform": "twitter",
+          "post_id": "tweet_3",
+          "author": "https://twitter.com/doodletweet",
+          "content": "Tweet #4 from https://twitter.com/doodletweet",
+          "timestamp": "2026-03-17T00:16:17.569708",
+          "views": 1300,
+          "likes": 80,
+          "comments": 16,
+          "shares": 8,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/https://twitter.com/doodletweet/status/3"
+        },
+        {
+          "platform": "twitter",
+          "post_id": "tweet_4",
+          "author": "https://twitter.com/doodletweet",
+          "content": "Tweet #5 from https://twitter.com/doodletweet",
+          "timestamp": "2026-03-17T00:16:17.569727",
+          "views": 1400,
+          "likes": 90,
+          "comments": 18,
+          "shares": 9,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/https://twitter.com/doodletweet/status/4"
+        },
+        {
+          "platform": "twitter",
+          "post_id": "tweet_5",
+          "author": "https://twitter.com/doodletweet",
+          "content": "Tweet #6 from https://twitter.com/doodletweet",
+          "timestamp": "2026-03-17T00:16:17.569739",
+          "views": 1500,
+          "likes": 100,
+          "comments": 20,
+          "shares": 10,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/https://twitter.com/doodletweet/status/5"
+        },
+        {
+          "platform": "twitter",
+          "post_id": "tweet_6",
+          "author": "https://twitter.com/doodletweet",
+          "content": "Tweet #7 from https://twitter.com/doodletweet",
+          "timestamp": "2026-03-17T00:16:17.569749",
+          "views": 1600,
+          "likes": 110,
+          "comments": 22,
+          "shares": 11,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/https://twitter.com/doodletweet/status/6"
+        },
+        {
+          "platform": "twitter",
+          "post_id": "tweet_7",
+          "author": "https://twitter.com/doodletweet",
+          "content": "Tweet #8 from https://twitter.com/doodletweet",
+          "timestamp": "2026-03-17T00:16:17.569759",
+          "views": 1700,
+          "likes": 120,
+          "comments": 24,
+          "shares": 12,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/https://twitter.com/doodletweet/status/7"
+        },
+        {
+          "platform": "twitter",
+          "post_id": "tweet_8",
+          "author": "https://twitter.com/doodletweet",
+          "content": "Tweet #9 from https://twitter.com/doodletweet",
+          "timestamp": "2026-03-17T00:16:17.569769",
+          "views": 1800,
+          "likes": 130,
+          "comments": 26,
+          "shares": 13,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/https://twitter.com/doodletweet/status/8"
+        },
+        {
+          "platform": "twitter",
+          "post_id": "tweet_9",
+          "author": "https://twitter.com/doodletweet",
+          "content": "Tweet #10 from https://twitter.com/doodletweet",
+          "timestamp": "2026-03-17T00:16:17.569780",
+          "views": 1900,
+          "likes": 140,
+          "comments": 28,
+          "shares": 14,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/https://twitter.com/doodletweet/status/9"
+        }
+      ],
+      "best_post": {
+        "platform": "twitter",
+        "post_id": "tweet_0",
+        "author": "https://twitter.com/doodletweet",
+        "content": "Tweet #1 from https://twitter.com/doodletweet",
+        "timestamp": "2026-03-17T00:16:17.569625",
+        "views": 1000,
+        "likes": 50,
+        "comments": 10,
+        "shares": 5,
+        "engagement_rate": 0.0,
+        "url": "https://twitter.com/https://twitter.com/doodletweet/status/0"
+      },
+      "worst_post": {
+        "platform": "twitter",
+        "post_id": "tweet_0",
+        "author": "https://twitter.com/doodletweet",
+        "content": "Tweet #1 from https://twitter.com/doodletweet",
+        "timestamp": "2026-03-17T00:16:17.569625",
+        "views": 1000,
+        "likes": 50,
+        "comments": 10,
+        "shares": 5,
+        "engagement_rate": 0.0,
+        "url": "https://twitter.com/https://twitter.com/doodletweet/status/0"
+      },
+      "average_views": 1450.0,
+      "average_comments": 19.0,
+      "audience_growth": 0.0
+    },
+    "instagram_analytics": {
+      "platform": "instagram",
+      "total_followers": 0,
+      "total_engagement": 7975,
+      "average_engagement_rate": 0.0,
+      "posting_frequency": 0.3333333333333333,
+      "most_engaging_content_type": "",
+      "recent_posts": [
+        {
+          "platform": "instagram",
+          "post_id": "post_0",
+          "author": "https://www.instagram.com/doodlescheduling/",
+          "content": "Instagram post #1 from https://www.instagram.com/doodlescheduling/",
+          "timestamp": "2026-03-17T00:16:19.683403",
+          "views": 5000,
+          "likes": 500,
+          "comments": 50,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_0/"
+        },
+        {
+          "platform": "instagram",
+          "post_id": "post_1",
+          "author": "https://www.instagram.com/doodlescheduling/",
+          "content": "Instagram post #2 from https://www.instagram.com/doodlescheduling/",
+          "timestamp": "2026-03-17T00:16:19.683503",
+          "views": 5200,
+          "likes": 550,
+          "comments": 55,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_1/"
+        },
+        {
+          "platform": "instagram",
+          "post_id": "post_2",
+          "author": "https://www.instagram.com/doodlescheduling/",
+          "content": "Instagram post #3 from https://www.instagram.com/doodlescheduling/",
+          "timestamp": "2026-03-17T00:16:19.683522",
+          "views": 5400,
+          "likes": 600,
+          "comments": 60,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_2/"
+        },
+        {
+          "platform": "instagram",
+          "post_id": "post_3",
+          "author": "https://www.instagram.com/doodlescheduling/",
+          "content": "Instagram post #4 from https://www.instagram.com/doodlescheduling/",
+          "timestamp": "2026-03-17T00:16:19.683536",
+          "views": 5600,
+          "likes": 650,
+          "comments": 65,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_3/"
+        },
+        {
+          "platform": "instagram",
+          "post_id": "post_4",
+          "author": "https://www.instagram.com/doodlescheduling/",
+          "content": "Instagram post #5 from https://www.instagram.com/doodlescheduling/",
+          "timestamp": "2026-03-17T00:16:19.683548",
+          "views": 5800,
+          "likes": 700,
+          "comments": 70,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_4/"
+        },
+        {
+          "platform": "instagram",
+          "post_id": "post_5",
+          "author": "https://www.instagram.com/doodlescheduling/",
+          "content": "Instagram post #6 from https://www.instagram.com/doodlescheduling/",
+          "timestamp": "2026-03-17T00:16:19.683561",
+          "views": 6000,
+          "likes": 750,
+          "comments": 75,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_5/"
+        },
+        {
+          "platform": "instagram",
+          "post_id": "post_6",
+          "author": "https://www.instagram.com/doodlescheduling/",
+          "content": "Instagram post #7 from https://www.instagram.com/doodlescheduling/",
+          "timestamp": "2026-03-17T00:16:19.683571",
+          "views": 6200,
+          "likes": 800,
+          "comments": 80,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_6/"
+        },
+        {
+          "platform": "instagram",
+          "post_id": "post_7",
+          "author": "https://www.instagram.com/doodlescheduling/",
+          "content": "Instagram post #8 from https://www.instagram.com/doodlescheduling/",
+          "timestamp": "2026-03-17T00:16:19.683589",
+          "views": 6400,
+          "likes": 850,
+          "comments": 85,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_7/"
+        },
+        {
+          "platform": "instagram",
+          "post_id": "post_8",
+          "author": "https://www.instagram.com/doodlescheduling/",
+          "content": "Instagram post #9 from https://www.instagram.com/doodlescheduling/",
+          "timestamp": "2026-03-17T00:16:19.683601",
+          "views": 6600,
+          "likes": 900,
+          "comments": 90,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_8/"
+        },
+        {
+          "platform": "instagram",
+          "post_id": "post_9",
+          "author": "https://www.instagram.com/doodlescheduling/",
+          "content": "Instagram post #10 from https://www.instagram.com/doodlescheduling/",
+          "timestamp": "2026-03-17T00:16:19.683612",
+          "views": 6800,
+          "likes": 950,
+          "comments": 95,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_9/"
+        }
+      ],
+      "best_post": {
+        "platform": "instagram",
+        "post_id": "post_0",
+        "author": "https://www.instagram.com/doodlescheduling/",
+        "content": "Instagram post #1 from https://www.instagram.com/doodlescheduling/",
+        "timestamp": "2026-03-17T00:16:19.683403",
+        "views": 5000,
+        "likes": 500,
+        "comments": 50,
+        "shares": 0,
+        "engagement_rate": 0.0,
+        "url": "https://instagram.com/p/post_0/"
+      },
+      "worst_post": {
+        "platform": "instagram",
+        "post_id": "post_0",
+        "author": "https://www.instagram.com/doodlescheduling/",
+        "content": "Instagram post #1 from https://www.instagram.com/doodlescheduling/",
+        "timestamp": "2026-03-17T00:16:19.683403",
+        "views": 5000,
+        "likes": 500,
+        "comments": 50,
+        "shares": 0,
+        "engagement_rate": 0.0,
+        "url": "https://instagram.com/p/post_0/"
+      },
+      "average_views": 5900.0,
+      "average_comments": 72.5,
+      "audience_growth": 0.0
+    },
+    "reddit_analytics": null,
+    "linkedin_analytics": {
+      "platform": "linkedin",
+      "total_followers": 0,
+      "total_engagement": 6910,
+      "average_engagement_rate": 0.0,
+      "posting_frequency": 0.3333333333333333,
+      "most_engaging_content_type": "",
+      "recent_posts": [
+        {
+          "platform": "linkedin",
+          "post_id": "post_0",
+          "author": "https://www.linkedin.com/company/doodle-ag/",
+          "content": "LinkedIn post #1 from https://www.linkedin.com/company/doodle-ag/",
+          "timestamp": "2026-03-17T00:16:21.455093",
+          "views": 3000,
+          "likes": 400,
+          "comments": 75,
+          "shares": 20,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_0/"
+        },
+        {
+          "platform": "linkedin",
+          "post_id": "post_1",
+          "author": "https://www.linkedin.com/company/doodle-ag/",
+          "content": "LinkedIn post #2 from https://www.linkedin.com/company/doodle-ag/",
+          "timestamp": "2026-03-17T00:16:21.455116",
+          "views": 3200,
+          "likes": 440,
+          "comments": 83,
+          "shares": 21,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_1/"
+        },
+        {
+          "platform": "linkedin",
+          "post_id": "post_2",
+          "author": "https://www.linkedin.com/company/doodle-ag/",
+          "content": "LinkedIn post #3 from https://www.linkedin.com/company/doodle-ag/",
+          "timestamp": "2026-03-17T00:16:21.455125",
+          "views": 3400,
+          "likes": 480,
+          "comments": 91,
+          "shares": 22,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_2/"
+        },
+        {
+          "platform": "linkedin",
+          "post_id": "post_3",
+          "author": "https://www.linkedin.com/company/doodle-ag/",
+          "content": "LinkedIn post #4 from https://www.linkedin.com/company/doodle-ag/",
+          "timestamp": "2026-03-17T00:16:21.455131",
+          "views": 3600,
+          "likes": 520,
+          "comments": 99,
+          "shares": 23,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_3/"
+        },
+        {
+          "platform": "linkedin",
+          "post_id": "post_4",
+          "author": "https://www.linkedin.com/company/doodle-ag/",
+          "content": "LinkedIn post #5 from https://www.linkedin.com/company/doodle-ag/",
+          "timestamp": "2026-03-17T00:16:21.455136",
+          "views": 3800,
+          "likes": 560,
+          "comments": 107,
+          "shares": 24,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_4/"
+        },
+        {
+          "platform": "linkedin",
+          "post_id": "post_5",
+          "author": "https://www.linkedin.com/company/doodle-ag/",
+          "content": "LinkedIn post #6 from https://www.linkedin.com/company/doodle-ag/",
+          "timestamp": "2026-03-17T00:16:21.455141",
+          "views": 4000,
+          "likes": 600,
+          "comments": 115,
+          "shares": 25,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_5/"
+        },
+        {
+          "platform": "linkedin",
+          "post_id": "post_6",
+          "author": "https://www.linkedin.com/company/doodle-ag/",
+          "content": "LinkedIn post #7 from https://www.linkedin.com/company/doodle-ag/",
+          "timestamp": "2026-03-17T00:16:21.455147",
+          "views": 4200,
+          "likes": 640,
+          "comments": 123,
+          "shares": 26,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_6/"
+        },
+        {
+          "platform": "linkedin",
+          "post_id": "post_7",
+          "author": "https://www.linkedin.com/company/doodle-ag/",
+          "content": "LinkedIn post #8 from https://www.linkedin.com/company/doodle-ag/",
+          "timestamp": "2026-03-17T00:16:21.455153",
+          "views": 4400,
+          "likes": 680,
+          "comments": 131,
+          "shares": 27,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_7/"
+        },
+        {
+          "platform": "linkedin",
+          "post_id": "post_8",
+          "author": "https://www.linkedin.com/company/doodle-ag/",
+          "content": "LinkedIn post #9 from https://www.linkedin.com/company/doodle-ag/",
+          "timestamp": "2026-03-17T00:16:21.455158",
+          "views": 4600,
+          "likes": 720,
+          "comments": 139,
+          "shares": 28,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_8/"
+        },
+        {
+          "platform": "linkedin",
+          "post_id": "post_9",
+          "author": "https://www.linkedin.com/company/doodle-ag/",
+          "content": "LinkedIn post #10 from https://www.linkedin.com/company/doodle-ag/",
+          "timestamp": "2026-03-17T00:16:21.455163",
+          "views": 4800,
+          "likes": 760,
+          "comments": 147,
+          "shares": 29,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_9/"
+        }
+      ],
+      "best_post": {
+        "platform": "linkedin",
+        "post_id": "post_0",
+        "author": "https://www.linkedin.com/company/doodle-ag/",
+        "content": "LinkedIn post #1 from https://www.linkedin.com/company/doodle-ag/",
+        "timestamp": "2026-03-17T00:16:21.455093",
+        "views": 3000,
+        "likes": 400,
+        "comments": 75,
+        "shares": 20,
+        "engagement_rate": 0.0,
+        "url": "https://linkedin.com/feed/update/post_0/"
+      },
+      "worst_post": {
+        "platform": "linkedin",
+        "post_id": "post_0",
+        "author": "https://www.linkedin.com/company/doodle-ag/",
+        "content": "LinkedIn post #1 from https://www.linkedin.com/company/doodle-ag/",
+        "timestamp": "2026-03-17T00:16:21.455093",
+        "views": 3000,
+        "likes": 400,
+        "comments": 75,
+        "shares": 20,
+        "engagement_rate": 0.0,
+        "url": "https://linkedin.com/feed/update/post_0/"
+      },
+      "average_views": 3900.0,
+      "average_comments": 111.0,
+      "audience_growth": 0.0
+    }
+  },
+  "timestamp": null
+}

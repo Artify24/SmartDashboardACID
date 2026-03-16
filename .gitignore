@@ -1,0 +1,50 @@
+# ============================================================
+# SmartDashboard — Root .gitignore
+# ============================================================
+
+# ----- Environment / Secrets (NEVER commit these) ----------
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+*.env
+
+# ----- Python -------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+*.ipynb_checkpoints/
+
+# ----- Node / Next.js -----------------------------------
+node_modules/
+.next/
+out/
+.pnp
+.pnp.js
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ----- OS / Editor ------------------------------------
+.DS_Store
+Thumbs.db
+.vscode/settings.json
+.idea/
+
+# ----- Misc scraper output ----------------------------
+scraper/online/new/output/
+scraper/online/new/business_data.json
+scraper/online/new/social_media_data.json
+scraper/online/new/business_intelligence_report.txt
+scraper/online/new/social_media_report.txt
+LLM/model_output.ipynb

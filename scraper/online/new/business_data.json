@@ -1,0 +1,1241 @@
+{
+  "business_name": "Quotes",
+  "website_url": "https://quotes.toscrape.com",
+  "website_data": {
+    "domain": "quotes.toscrape.com",
+    "url": "https://quotes.toscrape.com",
+    "timestamp": 1766672507.4812458,
+    "pages": {
+      "homepage": {
+        "url": "https://quotes.toscrape.com",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": []
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "unknown",
+          "price_evidence": [],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.3
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_adulthood_page_1": {
+        "url": "https://quotes.toscrape.com/tag/adulthood/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: adulthood"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "unknown",
+          "price_evidence": [],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.3
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_deep_thoughts_page_1": {
+        "url": "https://quotes.toscrape.com/tag/deep-thoughts/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: deep-thoughts"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "unknown",
+          "price_evidence": [],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.3
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_be_yourself_page_1": {
+        "url": "https://quotes.toscrape.com/tag/be-yourself/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: be-yourself"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "unknown",
+          "price_evidence": [],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.3
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_abilities_page_1": {
+        "url": "https://quotes.toscrape.com/tag/abilities/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: abilities"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "unknown",
+          "price_evidence": [],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.3
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_miracles_page_1": {
+        "url": "https://quotes.toscrape.com/tag/miracles/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: miracles"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "unknown",
+          "price_evidence": [],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.3
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_miracle_page_1": {
+        "url": "https://quotes.toscrape.com/tag/miracle/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: miracle"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "unknown",
+          "price_evidence": [],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.3
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_value_page_1": {
+        "url": "https://quotes.toscrape.com/tag/value/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: value"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "unknown",
+          "price_evidence": [],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.3
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_world_page_1": {
+        "url": "https://quotes.toscrape.com/tag/world/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: world"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "unknown",
+          "price_evidence": [],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.3
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_books_page_1": {
+        "url": "https://quotes.toscrape.com/tag/books/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: books"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "unknown",
+          "price_evidence": [],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.3
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_inspirational_page_1": {
+        "url": "https://quotes.toscrape.com/tag/inspirational/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: inspirational"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "transparent",
+          "price_evidence": [
+            "e best friends in the world. As for lovers, well, they'll come and go too. And baby"
+          ],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.6
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_humor_page_1": {
+        "url": "https://quotes.toscrape.com/tag/humor/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: humor"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "unknown",
+          "price_evidence": [],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.3
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_change_page_1": {
+        "url": "https://quotes.toscrape.com/tag/change/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: change"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "unknown",
+          "price_evidence": [],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.3
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_live_page_1": {
+        "url": "https://quotes.toscrape.com/tag/live/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: live"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "unknown",
+          "price_evidence": [],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.3
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_success_page_1": {
+        "url": "https://quotes.toscrape.com/tag/success/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: success"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "unknown",
+          "price_evidence": [],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.3
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_life_page_1": {
+        "url": "https://quotes.toscrape.com/tag/life/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: life"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "transparent",
+          "price_evidence": [
+            "e best friends in the world. As for lovers, well, they'll come and go too. And baby"
+          ],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.6
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_thinking_page_1": {
+        "url": "https://quotes.toscrape.com/tag/thinking/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: thinking"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "unknown",
+          "price_evidence": [],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.3
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_aliteracy_page_1": {
+        "url": "https://quotes.toscrape.com/tag/aliteracy/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: aliteracy"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "unknown",
+          "price_evidence": [],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.3
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_choices_page_1": {
+        "url": "https://quotes.toscrape.com/tag/choices/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: choices"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "unknown",
+          "price_evidence": [],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.3
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      },
+      "tag_classic_page_1": {
+        "url": "https://quotes.toscrape.com/tag/classic/page/1",
+        "title": "Quotes to Scrape",
+        "meta_description": "",
+        "headings": {
+          "h1": [
+            "Quotes to Scrape"
+          ],
+          "h2": [
+            "Top Ten tags"
+          ],
+          "h3": [
+            "Viewing tag: classic"
+          ]
+        },
+        "features": [],
+        "pricing": {
+          "plans": [],
+          "pricing_model": "unknown",
+          "price_evidence": [],
+          "billing_units": [],
+          "gating_signals": [],
+          "confidence": 0.3
+        },
+        "ctas": [],
+        "social_links": {},
+        "integrations": [],
+        "trust_signals": {
+          "testimonials": [],
+          "certifications": [],
+          "stats": []
+        }
+      }
+    },
+    "summary": {
+      "company_name": "Quotes to Scrape",
+      "description": "",
+      "domain": "quotes.toscrape.com",
+      "website_url": "https://quotes.toscrape.com",
+      "pricing_tiers": 6,
+      "features_count": 0,
+      "total_pages_scraped": 20,
+      "ctas": [],
+      "socials": {},
+      "integrations": [],
+      "trust_signals": {
+        "testimonials": [],
+        "certifications": [],
+        "companies": [],
+        "stats": []
+      }
+    }
+  },
+  "social_media_data": {
+    "business_name": "Quotes",
+    "scrape_timestamp": 1766672703.2452042,
+    "twitter_profile": {
+      "platform": "twitter",
+      "username": "quotes",
+      "display_name": "quotes",
+      "bio": "",
+      "followers": 0,
+      "following": 0,
+      "total_posts": 0,
+      "verification_status": false,
+      "profile_url": "https://twitter.com/quotes",
+      "profile_image": ""
+    },
+    "instagram_profile": {
+      "platform": "instagram",
+      "username": "quotes",
+      "display_name": "quotes",
+      "bio": "",
+      "followers": 0,
+      "following": 0,
+      "total_posts": 0,
+      "verification_status": false,
+      "profile_url": "https://instagram.com/quotes/",
+      "profile_image": ""
+    },
+    "reddit_profile": null,
+    "linkedin_profile": {
+      "platform": "linkedin",
+      "username": "Quotes",
+      "display_name": "Quotes",
+      "bio": "",
+      "followers": 0,
+      "following": 0,
+      "total_posts": 0,
+      "verification_status": false,
+      "profile_url": "https://linkedin.com/company/quotes",
+      "profile_image": ""
+    },
+    "twitter_analytics": {
+      "platform": "twitter",
+      "total_followers": 0,
+      "total_engagement": 1235,
+      "average_engagement_rate": 0.0,
+      "posting_frequency": 0.3333333333333333,
+      "most_engaging_content_type": "",
+      "recent_posts": [
+        {
+          "platform": "twitter",
+          "post_id": "tweet_0",
+          "author": "quotes",
+          "content": "Tweet #1 from quotes",
+          "timestamp": "2025-12-25T19:55:05.540974",
+          "views": 1000,
+          "likes": 50,
+          "comments": 10,
+          "shares": 5,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/quotes/status/0"
+        },
+        {
+          "platform": "twitter",
+          "post_id": "tweet_1",
+          "author": "quotes",
+          "content": "Tweet #2 from quotes",
+          "timestamp": "2025-12-25T19:55:05.541008",
+          "views": 1100,
+          "likes": 60,
+          "comments": 12,
+          "shares": 6,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/quotes/status/1"
+        },
+        {
+          "platform": "twitter",
+          "post_id": "tweet_2",
+          "author": "quotes",
+          "content": "Tweet #3 from quotes",
+          "timestamp": "2025-12-25T19:55:05.541022",
+          "views": 1200,
+          "likes": 70,
+          "comments": 14,
+          "shares": 7,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/quotes/status/2"
+        },
+        {
+          "platform": "twitter",
+          "post_id": "tweet_3",
+          "author": "quotes",
+          "content": "Tweet #4 from quotes",
+          "timestamp": "2025-12-25T19:55:05.541030",
+          "views": 1300,
+          "likes": 80,
+          "comments": 16,
+          "shares": 8,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/quotes/status/3"
+        },
+        {
+          "platform": "twitter",
+          "post_id": "tweet_4",
+          "author": "quotes",
+          "content": "Tweet #5 from quotes",
+          "timestamp": "2025-12-25T19:55:05.541038",
+          "views": 1400,
+          "likes": 90,
+          "comments": 18,
+          "shares": 9,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/quotes/status/4"
+        },
+        {
+          "platform": "twitter",
+          "post_id": "tweet_5",
+          "author": "quotes",
+          "content": "Tweet #6 from quotes",
+          "timestamp": "2025-12-25T19:55:05.541045",
+          "views": 1500,
+          "likes": 100,
+          "comments": 20,
+          "shares": 10,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/quotes/status/5"
+        },
+        {
+          "platform": "twitter",
+          "post_id": "tweet_6",
+          "author": "quotes",
+          "content": "Tweet #7 from quotes",
+          "timestamp": "2025-12-25T19:55:05.541051",
+          "views": 1600,
+          "likes": 110,
+          "comments": 22,
+          "shares": 11,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/quotes/status/6"
+        },
+        {
+          "platform": "twitter",
+          "post_id": "tweet_7",
+          "author": "quotes",
+          "content": "Tweet #8 from quotes",
+          "timestamp": "2025-12-25T19:55:05.541057",
+          "views": 1700,
+          "likes": 120,
+          "comments": 24,
+          "shares": 12,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/quotes/status/7"
+        },
+        {
+          "platform": "twitter",
+          "post_id": "tweet_8",
+          "author": "quotes",
+          "content": "Tweet #9 from quotes",
+          "timestamp": "2025-12-25T19:55:05.541064",
+          "views": 1800,
+          "likes": 130,
+          "comments": 26,
+          "shares": 13,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/quotes/status/8"
+        },
+        {
+          "platform": "twitter",
+          "post_id": "tweet_9",
+          "author": "quotes",
+          "content": "Tweet #10 from quotes",
+          "timestamp": "2025-12-25T19:55:05.541070",
+          "views": 1900,
+          "likes": 140,
+          "comments": 28,
+          "shares": 14,
+          "engagement_rate": 0.0,
+          "url": "https://twitter.com/quotes/status/9"
+        }
+      ],
+      "best_post": {
+        "platform": "twitter",
+        "post_id": "tweet_0",
+        "author": "quotes",
+        "content": "Tweet #1 from quotes",
+        "timestamp": "2025-12-25T19:55:05.540974",
+        "views": 1000,
+        "likes": 50,
+        "comments": 10,
+        "shares": 5,
+        "engagement_rate": 0.0,
+        "url": "https://twitter.com/quotes/status/0"
+      },
+      "worst_post": {
+        "platform": "twitter",
+        "post_id": "tweet_0",
+        "author": "quotes",
+        "content": "Tweet #1 from quotes",
+        "timestamp": "2025-12-25T19:55:05.540974",
+        "views": 1000,
+        "likes": 50,
+        "comments": 10,
+        "shares": 5,
+        "engagement_rate": 0.0,
+        "url": "https://twitter.com/quotes/status/0"
+      },
+      "average_views": 1450.0,
+      "average_comments": 19.0,
+      "audience_growth": 0.0
+    },
+    "instagram_analytics": {
+      "platform": "instagram",
+      "total_followers": 0,
+      "total_engagement": 7975,
+      "average_engagement_rate": 0.0,
+      "posting_frequency": 0.3333333333333333,
+      "most_engaging_content_type": "",
+      "recent_posts": [
+        {
+          "platform": "instagram",
+          "post_id": "post_0",
+          "author": "quotes",
+          "content": "Instagram post #1 from quotes",
+          "timestamp": "2025-12-25T19:55:07.897809",
+          "views": 5000,
+          "likes": 500,
+          "comments": 50,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_0/"
+        },
+        {
+          "platform": "instagram",
+          "post_id": "post_1",
+          "author": "quotes",
+          "content": "Instagram post #2 from quotes",
+          "timestamp": "2025-12-25T19:55:07.897825",
+          "views": 5200,
+          "likes": 550,
+          "comments": 55,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_1/"
+        },
+        {
+          "platform": "instagram",
+          "post_id": "post_2",
+          "author": "quotes",
+          "content": "Instagram post #3 from quotes",
+          "timestamp": "2025-12-25T19:55:07.897831",
+          "views": 5400,
+          "likes": 600,
+          "comments": 60,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_2/"
+        },
+        {
+          "platform": "instagram",
+          "post_id": "post_3",
+          "author": "quotes",
+          "content": "Instagram post #4 from quotes",
+          "timestamp": "2025-12-25T19:55:07.897835",
+          "views": 5600,
+          "likes": 650,
+          "comments": 65,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_3/"
+        },
+        {
+          "platform": "instagram",
+          "post_id": "post_4",
+          "author": "quotes",
+          "content": "Instagram post #5 from quotes",
+          "timestamp": "2025-12-25T19:55:07.897838",
+          "views": 5800,
+          "likes": 700,
+          "comments": 70,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_4/"
+        },
+        {
+          "platform": "instagram",
+          "post_id": "post_5",
+          "author": "quotes",
+          "content": "Instagram post #6 from quotes",
+          "timestamp": "2025-12-25T19:55:07.897841",
+          "views": 6000,
+          "likes": 750,
+          "comments": 75,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_5/"
+        },
+        {
+          "platform": "instagram",
+          "post_id": "post_6",
+          "author": "quotes",
+          "content": "Instagram post #7 from quotes",
+          "timestamp": "2025-12-25T19:55:07.897844",
+          "views": 6200,
+          "likes": 800,
+          "comments": 80,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_6/"
+        },
+        {
+          "platform": "instagram",
+          "post_id": "post_7",
+          "author": "quotes",
+          "content": "Instagram post #8 from quotes",
+          "timestamp": "2025-12-25T19:55:07.897846",
+          "views": 6400,
+          "likes": 850,
+          "comments": 85,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_7/"
+        },
+        {
+          "platform": "instagram",
+          "post_id": "post_8",
+          "author": "quotes",
+          "content": "Instagram post #9 from quotes",
+          "timestamp": "2025-12-25T19:55:07.897849",
+          "views": 6600,
+          "likes": 900,
+          "comments": 90,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_8/"
+        },
+        {
+          "platform": "instagram",
+          "post_id": "post_9",
+          "author": "quotes",
+          "content": "Instagram post #10 from quotes",
+          "timestamp": "2025-12-25T19:55:07.897851",
+          "views": 6800,
+          "likes": 950,
+          "comments": 95,
+          "shares": 0,
+          "engagement_rate": 0.0,
+          "url": "https://instagram.com/p/post_9/"
+        }
+      ],
+      "best_post": {
+        "platform": "instagram",
+        "post_id": "post_0",
+        "author": "quotes",
+        "content": "Instagram post #1 from quotes",
+        "timestamp": "2025-12-25T19:55:07.897809",
+        "views": 5000,
+        "likes": 500,
+        "comments": 50,
+        "shares": 0,
+        "engagement_rate": 0.0,
+        "url": "https://instagram.com/p/post_0/"
+      },
+      "worst_post": {
+        "platform": "instagram",
+        "post_id": "post_0",
+        "author": "quotes",
+        "content": "Instagram post #1 from quotes",
+        "timestamp": "2025-12-25T19:55:07.897809",
+        "views": 5000,
+        "likes": 500,
+        "comments": 50,
+        "shares": 0,
+        "engagement_rate": 0.0,
+        "url": "https://instagram.com/p/post_0/"
+      },
+      "average_views": 5900.0,
+      "average_comments": 72.5,
+      "audience_growth": 0.0
+    },
+    "reddit_analytics": null,
+    "linkedin_analytics": {
+      "platform": "linkedin",
+      "total_followers": 0,
+      "total_engagement": 6910,
+      "average_engagement_rate": 0.0,
+      "posting_frequency": 0.3333333333333333,
+      "most_engaging_content_type": "",
+      "recent_posts": [
+        {
+          "platform": "linkedin",
+          "post_id": "post_0",
+          "author": "Quotes",
+          "content": "LinkedIn post #1 from Quotes",
+          "timestamp": "2025-12-25T19:55:10.240796",
+          "views": 3000,
+          "likes": 400,
+          "comments": 75,
+          "shares": 20,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_0/"
+        },
+        {
+          "platform": "linkedin",
+          "post_id": "post_1",
+          "author": "Quotes",
+          "content": "LinkedIn post #2 from Quotes",
+          "timestamp": "2025-12-25T19:55:10.240829",
+          "views": 3200,
+          "likes": 440,
+          "comments": 83,
+          "shares": 21,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_1/"
+        },
+        {
+          "platform": "linkedin",
+          "post_id": "post_2",
+          "author": "Quotes",
+          "content": "LinkedIn post #3 from Quotes",
+          "timestamp": "2025-12-25T19:55:10.240850",
+          "views": 3400,
+          "likes": 480,
+          "comments": 91,
+          "shares": 22,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_2/"
+        },
+        {
+          "platform": "linkedin",
+          "post_id": "post_3",
+          "author": "Quotes",
+          "content": "LinkedIn post #4 from Quotes",
+          "timestamp": "2025-12-25T19:55:10.240859",
+          "views": 3600,
+          "likes": 520,
+          "comments": 99,
+          "shares": 23,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_3/"
+        },
+        {
+          "platform": "linkedin",
+          "post_id": "post_4",
+          "author": "Quotes",
+          "content": "LinkedIn post #5 from Quotes",
+          "timestamp": "2025-12-25T19:55:10.240867",
+          "views": 3800,
+          "likes": 560,
+          "comments": 107,
+          "shares": 24,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_4/"
+        },
+        {
+          "platform": "linkedin",
+          "post_id": "post_5",
+          "author": "Quotes",
+          "content": "LinkedIn post #6 from Quotes",
+          "timestamp": "2025-12-25T19:55:10.240875",
+          "views": 4000,
+          "likes": 600,
+          "comments": 115,
+          "shares": 25,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_5/"
+        },
+        {
+          "platform": "linkedin",
+          "post_id": "post_6",
+          "author": "Quotes",
+          "content": "LinkedIn post #7 from Quotes",
+          "timestamp": "2025-12-25T19:55:10.240882",
+          "views": 4200,
+          "likes": 640,
+          "comments": 123,
+          "shares": 26,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_6/"
+        },
+        {
+          "platform": "linkedin",
+          "post_id": "post_7",
+          "author": "Quotes",
+          "content": "LinkedIn post #8 from Quotes",
+          "timestamp": "2025-12-25T19:55:10.240891",
+          "views": 4400,
+          "likes": 680,
+          "comments": 131,
+          "shares": 27,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_7/"
+        },
+        {
+          "platform": "linkedin",
+          "post_id": "post_8",
+          "author": "Quotes",
+          "content": "LinkedIn post #9 from Quotes",
+          "timestamp": "2025-12-25T19:55:10.240898",
+          "views": 4600,
+          "likes": 720,
+          "comments": 139,
+          "shares": 28,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_8/"
+        },
+        {
+          "platform": "linkedin",
+          "post_id": "post_9",
+          "author": "Quotes",
+          "content": "LinkedIn post #10 from Quotes",
+          "timestamp": "2025-12-25T19:55:10.240906",
+          "views": 4800,
+          "likes": 760,
+          "comments": 147,
+          "shares": 29,
+          "engagement_rate": 0.0,
+          "url": "https://linkedin.com/feed/update/post_9/"
+        }
+      ],
+      "best_post": {
+        "platform": "linkedin",
+        "post_id": "post_0",
+        "author": "Quotes",
+        "content": "LinkedIn post #1 from Quotes",
+        "timestamp": "2025-12-25T19:55:10.240796",
+        "views": 3000,
+        "likes": 400,
+        "comments": 75,
+        "shares": 20,
+        "engagement_rate": 0.0,
+        "url": "https://linkedin.com/feed/update/post_0/"
+      },
+      "worst_post": {
+        "platform": "linkedin",
+        "post_id": "post_0",
+        "author": "Quotes",
+        "content": "LinkedIn post #1 from Quotes",
+        "timestamp": "2025-12-25T19:55:10.240796",
+        "views": 3000,
+        "likes": 400,
+        "comments": 75,
+        "shares": 20,
+        "engagement_rate": 0.0,
+        "url": "https://linkedin.com/feed/update/post_0/"
+      },
+      "average_views": 3900.0,
+      "average_comments": 111.0,
+      "audience_growth": 0.0
+    }
+  },
+  "timestamp": null
+}
